@@ -8,7 +8,7 @@ function App() {
       <select name="cars" id="cars">
         <option value="select">select</option>
         <option value="Yes">Yes</option>
-        <option value="Not">Probablt Not</option>
+        <option value="Not">Probably Not</option>
       </select>
     </div>
   );
